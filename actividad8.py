@@ -1,0 +1,5 @@
+print(" ")
+print((10+3) * (6+6))
+print(" ")
+print(10+3 * 6+6)
+print(" ")
